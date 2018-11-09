@@ -31,6 +31,7 @@ import java.util.ArrayList;
  * @author taowenxiang
  * @date 2018/10/31
  * @since 1.0
+ *
  */
 public class EWSUtils {
 
